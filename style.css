@@ -52,7 +52,7 @@ body{
     margin: 30PX 60PX;
     padding: 60PX 40PX;
     height: 80vh;
-    background-image:url("coffee.jpg");
+    background-image:url("images/coffee.jpg");
     border-radius: 15px;
     color: white;
     background-size: cover;
